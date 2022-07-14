@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Ani´s Pfotenklub
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Professionelle Betreuung für deinen Vierbeiner. 
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
-intro_image_hide_on_mobile: true
+intro_image_hide_on_mobile: false
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Ani´s Pfotenklub - Urlaub für Dein Haustier, bedeutet Urlaub für Dich.
 
 Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
