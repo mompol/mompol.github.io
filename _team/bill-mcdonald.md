@@ -1,8 +1,8 @@
 ---
-title: "Bill McDonald"
+title: "Anika"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
-jobtitle: "Graphic Designer"
+image: "images/team/anika.jpg"
+jobtitle: "CEO & Tierfreund"
 linkedinurl: ""
 weight: 7
 ---
