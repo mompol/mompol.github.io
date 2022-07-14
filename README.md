@@ -1,37 +1,103 @@
-## Welcome to GitHub Pages
+# Jekyll Serif Theme
 
-You can use the [editor on GitHub](https://github.com/mompol/mompol.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Serif is a modern business theme for Jekyll. It contains multiple content types for a typical brochure/marketing website. The theme is fully responsive, blazing fast and artfully illustrated.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Live Demo](https://jekyll-serif.netlify.app/) |
+[Zerostatic Themes](https://www.zerostatic.io)
 
-### Markdown
+<a href="https://www.buymeacoffee.com/zerostatic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Jekyll Serif Theme screenshot](https://www.zerostatic.io/theme/jekyll-serif/jekyll-serif-screenshot.png)
 
-```markdown
-Syntax highlighted code block
+### Theme features
 
-# Header 1
-## Header 2
-### Header 3
+- Jekyll 4.2
+- Netlify & Github Pages ready
+- Services (Collection)
+- Team (Collection)
+- Features (Data)
+- SCSS
+- Beautifully offset illustrations in the hero section, can be substitued with regular images/photos as well
+- 100% Responsive design, animated hamburger and mobile slide in menu
+- Bootstrap 4.6 - **Only the bootstrap grid and utilites are imported by default. If you want to use more of the Boostrap library you can uncomment the `@import` in `style.scss`**
+- 100/100 Google Lighthouse speed score
+- 100/100 Google Lighthouse seo score
+- 100/100 Google Lighthouse accessibility score
+- 100/100 Google Lighthouse best practices score
+- Under 50KB without images or 80KB with images and illustrations ⚡
+- Under 20KB without Google fonts ⚡⚡⚡
+- Robust example content included
+- Royalty free illustrations included
 
-- Bulleted
-- List
+## Installation
 
-1. Numbered
-2. List
+### Installing Ruby & Jekyll
 
-**Bold** and _Italic_ and `Code` text
+If this is your first time using Jekyll, please follow the [Jekyll docs](https://jekyllrb.com/docs/installation/) and make sure your local environment (including Ruby) is setup correctly.
 
-[Link](url) and ![Image](src)
+### Installing Theme
+
+Download or clone the theme.
+
+To run the theme locally, navigate to the theme directory and run:
+
+```
+bundle install
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+To start the Jekyll local development server.
 
-### Jekyll Themes
+```
+bundle exec jekyll serve
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mompol/mompol.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+To build the theme.
 
-### Support or Contact
+```
+bundle exec jekyll build
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Deployment
+
+### Netlify
+
+Use Netlify to deploy this theme. This theme contains a valid and tested `netlify.toml` - Feel free to use the 1-click deploy below.
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/zerostaticthemes/jekyll-serif-theme)
+
+### Github Pages
+
+This theme has been tested to work with Github Pages (and Github Project Pages). When using Github Pages you will need to update the `baseurl` in the `_config.yml` otherwise all the css, images and paths will be broken.
+
+For example the site https://zerostaticthemes.github.io/jekyll-serif-theme would have `baseurl: "/jekyll-serif-theme/"`
+
+## Extras
+
+### License
+
+- You cannot create ports of this theme
+- You cannot re-sell this theme
+
+### Credits
+
+- Beautiful royalty free Illustrations by Icons8 - https://icons8.com/illustrations/style--pixeltrue
+- Stock images by Unsplash - https://unsplash.com/
+- Feature icons by Noun Project - https://thenounproject.com/
+
+## Support My Work
+
+I've been building open source themes for all the main static site generators for over 4 years now. My premium themes allow me to continue to allocate time to maintain, improve and build new open source themes.
+
+1. Leave a star ⭐🙏🏻
+2. Mention this theme on twitter [@zerostaticio](https://twitter.com/zerostaticio) 📢
+3. Purchase a premium theme 🔥
+
+### All Jekyll Themes by Zerostatic
+
+- [Jekyll Serif (Open Source)](https://www.zerostatic.io/theme/jekyll-serif/)
+- [Jekyll Atlantic (Open Source)](https://www.zerostatic.io/theme/jekyll-atlantic/)
+- [Jekyll Advance (Premium)](https://www.zerostatic.io/theme/jekyll-advance/)
+- [Jekyll Origin (Premium)](https://www.zerostatic.io/theme/jekyll-origin/)
+- [Jekyll Curate (Premium)](https://www.zerostatic.io/theme/jekyll-curate/)
+
+🇦🇺 **Made in Australia** by Robert Austin
