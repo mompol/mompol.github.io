@@ -33,10 +33,11 @@ defaults:
       layout: "team"
 
 sass:
-  style: compact # possible values: nested expanded compact compressed
+  style: compressed # possible values: nested expanded compact compressed
 
 plugins:
   - jekyll-environment-variables
+  - jemoji
 
 exclude:
   - Gemfile
