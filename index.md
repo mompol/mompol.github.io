@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: false
 show_call_box: true
 ---
 
-# Ani´s Pfotenklub - Urlaub für dein Haustier.
+# Urlaub für dein Haustier.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Ani's Pfotenklub, die 5 :star: Haustierbetreuung in Halstenbek.
