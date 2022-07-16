@@ -10,4 +10,4 @@ show_call_box: true
 
 # Ani´s Pfotenklub
 
-Die 5 :star: Haustierbetreuung aus Halstenbek.
+Die 5 Haustierbetreuung aus Halstenbek.
