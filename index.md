@@ -1,6 +1,6 @@
 ---
 title: Ani´s Pfotenklub
-layout: home
+layout: default
 description: Professionelle Betreuung für deinen Vierbeiner. 
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
