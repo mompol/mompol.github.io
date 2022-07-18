@@ -8,9 +8,10 @@ intro_image_hide_on_mobile: false
 show_call_box: true
 ---
 
-# Ani´s Pfotenklub
+# Urlaub für Ihr Haustier
 
-Die 5 Haustierbetreuung aus Halstenbek.
+Ani´s Pfotenklub. Die 5🌠 Haustierbetreuung aus Halstenbek.
+
 
 
 <script>
