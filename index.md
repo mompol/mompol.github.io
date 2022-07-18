@@ -1,7 +1,7 @@
 ---
 title: Ani´s Pfotenklub
-layout: default
-description: Professionelle Betreuung für deinen Vierbeiner. 
+layout: home
+description: Professionelle Betreuung für Deinen Vierbeiner. 
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
@@ -10,7 +10,7 @@ show_call_box: true
 
 # Urlaub für Ihr Haustier
 
-Ani´s Pfotenklub. Die 5🌠 Haustierbetreuung aus Halstenbek.
+Ani´s Pfotenklub. Die 5🌟 Haustierbetreuung aus Halstenbek.
 
 
 
