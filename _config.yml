@@ -11,7 +11,7 @@ logo:
   desktop_width: "120px"
 
 home: 
-  limit_services: 6
+  limit_services: 3
 
 collections:
   services:
@@ -33,7 +33,7 @@ defaults:
       layout: "team"
 
 sass:
-  style: compressed # possible values: nested expanded compact compressed
+  style: nested # possible values: nested expanded compact compressed
 
 plugins:
   - jekyll-environment-variables
