@@ -16,4 +16,4 @@ Serif is a modern business theme for Jekyll. It contains multiple content types 
 
 - [Jekyll Serif (Open Source)](https://www.zerostatic.io/theme/jekyll-serif/)
 
-🇦🇺 **Made in Germany** by me
+🇩🇪 **Made in Germany** by me
