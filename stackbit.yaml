@@ -1,8 +1,8 @@
 stackbitVersion: ~0.3.0
 ssgName: jekyll
-ssgVersion: "4.1"
+ssgVersion: "4.2"
 buildCommand: bundle exec jekyll build
-publishDir: '_site'
+publishDir: '_posts'
 staticDir: 'assets'
 uploadDir: 'images'
 dataDir: '_data'
