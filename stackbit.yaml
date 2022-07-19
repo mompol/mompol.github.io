@@ -1,12 +1,12 @@
 stackbitVersion: ~0.3.0
 ssgName: jekyll
-ssgVersion: "4.2"
+ssgVersion: "4.1"
 buildCommand: bundle exec jekyll build
-publishDir: '_posts'
-staticDir: 'assets'
-uploadDir: 'images'
-dataDir: '_data'
-pagesDir: ''
+publishDir: "_site"
+staticDir: "assets"
+uploadDir: "images"
+dataDir: "_data"
+pagesDir: ""
 pageLayoutKey: null
 logicFields:
   - site_menu_item.weight
