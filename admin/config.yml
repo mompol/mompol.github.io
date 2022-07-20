@@ -5,7 +5,8 @@ backend:
   site_domain: sparkling-nougat-b1a83a.netlify.com
 
 publish_mode: editorial_workflow
-media_folder: "images/uploads"
+media_folder: "/images/uploads"
+public_folder: "/images"
 display_url: https://pfotenklub.de
 
 collections:
