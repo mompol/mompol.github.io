@@ -4,14 +4,14 @@
     "link": "https://facebook.com/pages/category/Product-service/Anis-Pfotenklub-2309647659284838",
     "image": "images/social/facebook.svg"
   },
-  {
-    "name": "Instagram",
-    "link": "https://instagram.com/anispfotenklub",
-    "image": "images/social/instagram.svg"
-  },
    {
     "name": "Whatsapp",
     "link": "https://wa.me/4915156131341?text=Hallo%Anika%...",
     "image": "images/social/whatsapp.svg"
+  },
+   {
+    "name": "Instagram",
+    "link": "https://instagram.com/anispfotenklub",
+    "image": "images/social/instagram.svg"
   }
 ]
