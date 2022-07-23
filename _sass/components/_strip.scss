@@ -6,7 +6,7 @@
   background-color: white;
 }
 .strip-grey {
-  background-color: lighten($white-offset, 10%);
+  background-color: darken($white-offset, 10%);
 }
 .strip-diagonal {
   transform: skewY(5deg);
