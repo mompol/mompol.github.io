@@ -1,7 +1,7 @@
 ---
-title: About
+title: Über uns
 layout: page
-description: About
+description: Über uns und den Pfotenklub. 
 bodyClass: page-about
 ---
 
