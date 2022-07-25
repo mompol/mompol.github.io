@@ -1,7 +1,7 @@
 [
   {
     "title": "Standort",
-    "description": "Die perfekte Laage. Eine menge Platz mit großem Garten, Terrasse, sowie einem See direkt vor der Tür. Erfahre <a href="/about">mehr</a> über die Umgebung und Standort des Pfotenklubs.",
+    "description": "Die perfekte Laage. Eine menge Platz mit großem Garten, Terrasse, sowie einem See direkt vor der Tür. Erfahre <a href='"/about"'>mehr</a> über die Umgebung und Standort des Pfotenklubs.",
     "image": {
       "url": "images/features/location.svg",
       "width": 80,
