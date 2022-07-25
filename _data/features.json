@@ -1,7 +1,7 @@
 [
   {
     "title": "Standort",
-    "description": "Die perfekte Laage. Eine menge Platz mit großem Garten, Terrasse, sowie einem See direkt vor der Tür.",
+    "description": "Eine menge Platz im Haus mit großem Garten, Terrasse, sowie einem See direkt vor der Tür.",
     "image": {
       "url": "images/features/location.svg",
       "width": 80,
@@ -10,7 +10,7 @@
   },
   {
     "title": "Wissen & Erfahrung",
-    "description": "Als tiermedizinische Fachangestellte und Klinikmanagerin mit mehr als 10 Jahren Erfahrung bin ich vorbereitet auf jede Situation. ",
+    "description": "Als tiermedizinische Fachangestellte mit mehr als 10 Jahren Erfahrung bin ich vorbereitet auf jede Situation. ",
     "image": {
       "url": "images/features/animalCare.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "eingetragener Klein(Tier)betrieb",
-    "description": "Als eingetragener Kleinbetrieb können wir Rechnungen ausstellen die steuerlich absetzbar sind.",
+    "title": "Klein(Tier)betrieb",
+    "description": "Als eingetragener Kleinbetrieb können wir Rechnungen ausstellen, die steuerlich absetzbar sind.",
     "image": {
       "url": "images/features/smallBusiness.svg",
       "width": 80,
