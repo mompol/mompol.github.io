@@ -3,6 +3,9 @@ title: Über uns
 layout: page
 description: Über uns und den Pfotenklub. 
 bodyClass: page-about
+permalink: "/ueber/"
+intro_image_absolute: true
+intro_image_hide_on_mobile: false
 ---
 
 Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
