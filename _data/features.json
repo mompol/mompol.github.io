@@ -1,6 +1,6 @@
 [
   {
-    "title": "Kostenlose Beratung",
+    "title": "Standort",
     "description": "Neue wie bestehende Kunden werden immer kostenlos beraten.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
@@ -9,16 +9,16 @@
     }
   },
   {
-    "title": "unersetzliche Erfahrung",
+    "title": "Wissen & Erfahrung",
     "description": "Als Tierarztassistentin und Klinikmanagerin mit mehr als 10 Jahren Erfahrung ....",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/animalCare.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Tax Compliance",
+    "title": "eingetragener Klein(Tier)betrieb",
     "description": "We stay up to date on the latest changes to the tax code.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
